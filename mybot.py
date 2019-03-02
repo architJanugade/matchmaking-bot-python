@@ -4,7 +4,7 @@ import random
 import os
 from discord.ext import commands
 
-TOKEN = "NTQ5NTU2NDUzNDI2NTkzODAz.D1WliA.oZzieYramC5FV3Fdy95R0sEDFgM"
+TOKEN = ""
 client = commands.Bot(command_prefix = '--')
 
 os.chdir(r'D:\Programming\Projects\Discord bot\jsonFiles')
