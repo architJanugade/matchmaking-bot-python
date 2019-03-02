@@ -1,0 +1,16 @@
+How To Register:
+1. To registersolo:
+```--registersolo @yourname```
+2.to register Team:
+```--registerTeam TeamName @player1 @player2 @player3 @player4 @player5```
+
+How to join Queue:
+1.How to join Solo Queue:
+	-Go in #solo-lobby channel
+	-type the command ```--joinQ```
+	-to see the Queue type the command ```--showQ```
+2.How to join Team Queue:
+	-Go in ##teams-lobby channel
+	-type the command ```--joinQT TeamName```
+
+
